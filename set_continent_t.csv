@@ -22,7 +22,6 @@
 22,Asia
 23,Asia
 24,Asia
-410,Oceania
 25,Asia
 26,Asia
 27,Asia
@@ -47,8 +46,6 @@
 46,Europe
 47,Europe
 48,Europe
-5113,Oceania
-5114,Oceania
 49,Europe
 50,Europe
 51,Europe
@@ -73,8 +70,6 @@
 70,Africa
 71,Africa
 72,Africa
-5115,Oceania
-5116,Oceania
 73,Africa
 74,Africa
 75,Africa
@@ -109,36 +104,9 @@
 104,Oceania
 105,Oceania
 106,Oceania
-107,Oceania
-108,Oceania
-109,Oceania
-110,Oceania
+113,Oceania
 111,Oceania
 112,Oceania
-113,Oceania
-114,Oceania
-115,Oceania
-116,Oceania
-117,Oceania
-118,Oceania
-119,Oceania
-120,Oceania
-121,Oceania
-122,Oceania
-123,Oceania
-124,Oceania
-125,Oceania
-126,Oceania
-127,Oceania
-128,Oceania
-129,Oceania
-130,Oceania
-131,Oceania
-132,Oceania
-133,Oceania
-134,Oceania
-135,Oceania
-136,Oceania
 137,Europe
 138,Europe
 139,Europe
@@ -148,6 +116,12 @@
 143,Europe
 144,Europe
 145,Europe
+127,Oceania
+128,Oceania
+131,Oceania
+132,Oceania
+123,Oceania
+121,Oceania
 146,Europe
 147,Europe
 148,Europe
@@ -174,8 +148,6 @@
 169,Europe
 170,Europe
 171,Africa
-5117,Oceania
-5118,Oceania
 172,Africa
 173,Africa
 174,Africa
@@ -225,8 +197,6 @@
 218,North America
 219,North America
 220,North America
-5119,Oceania
-5120,Oceania
 221,North America
 222,North America
 223,North America
@@ -245,10 +215,40 @@
 236,North America
 237,North America
 238,North America
-5121,Oceania
-5122,Oceania
-5123,Oceania
-5124,Oceania
+239,NOT_FOUND
+240,NOT_FOUND
+241,NOT_FOUND
+242,NOT_FOUND
+243,NOT_FOUND
+244,NOT_FOUND
+245,NOT_FOUND
+246,NOT_FOUND
+247,NOT_FOUND
+248,NOT_FOUND
+249,NOT_FOUND
+250,NOT_FOUND
+251,NOT_FOUND
+252,NOT_FOUND
+253,NOT_FOUND
+254,NOT_FOUND
+255,NOT_FOUND
+256,NOT_FOUND
+257,NOT_FOUND
+258,NOT_FOUND
+259,NOT_FOUND
+260,NOT_FOUND
+261,NOT_FOUND
+262,NOT_FOUND
+263,NOT_FOUND
+264,NOT_FOUND
+265,NOT_FOUND
+266,NOT_FOUND
+267,NOT_FOUND
+268,NOT_FOUND
+269,NOT_FOUND
+270,NOT_FOUND
+271,NOT_FOUND
+272,NOT_FOUND
 307,South America
 308,South America
 309,South America
@@ -283,76 +283,20 @@
 338,South America
 339,South America
 340,South America
-341,Asia
 342,Asia
-343,Asia
-344,Asia
-345,Asia
-346,Asia
-347,Asia
-348,Asia
-349,Asia
-350,Asia
-351,Asia
-352,Asia
-353,Asia
-354,Asia
-355,Asia
-356,Asia
-357,Asia
-358,Asia
-359,Asia
-360,Asia
-361,Asia
-362,Asia
-363,Asia
-364,Asia
-365,Asia
-366,Asia
-367,Asia
-368,Asia
-369,Asia
-370,Asia
-371,Asia
-372,Asia
-373,Asia
-374,Asia
-375,North America
-376,North America
 377,North America
 378,North America
 379,North America
-380,North America
-381,North America
-382,North America
-383,North America
-384,North America
-385,North America
-386,North America
-387,North America
-388,North America
-389,North America
-390,North America
-391,North America
-392,North America
-393,North America
-394,North America
-395,North America
-396,North America
-397,North America
-398,North America
+375,North America
+376,North America
 399,North America
 400,North America
-401,North America
-402,North America
-403,North America
-404,North America
-405,North America
-406,North America
-407,North America
-408,North America
+385,North America
+380,North America
+397,North America
+398,North America
 409,Oceania
-5125,Oceania
+410,Oceania
 411,Oceania
 412,Oceania
 413,Oceania
@@ -377,8 +321,6 @@
 432,Oceania
 433,Oceania
 434,Oceania
-5126,Oceania
-5127,Oceania
 435,Oceania
 436,Oceania
 437,Oceania
@@ -421,41 +363,6 @@
 474,Europe
 475,Europe
 476,Europe
-477,Asia
-478,Asia
-479,Asia
-480,Asia
-481,Asia
-482,Asia
-483,Asia
-484,Asia
-485,Asia
-486,Asia
-487,Asia
-488,Asia
-489,Asia
-490,Asia
-491,Asia
-492,Asia
-5128,Oceania
-493,Asia
-494,Asia
-495,Asia
-496,Asia
-497,Asia
-498,Asia
-499,Asia
-500,Asia
-501,Asia
-502,Asia
-503,Asia
-504,Asia
-505,Asia
-506,Asia
-507,Asia
-508,Asia
-509,Asia
-510,Asia
 511,North America
 512,North America
 513,North America
@@ -496,8 +403,6 @@
 548,Asia
 549,Asia
 550,Asia
-5129,Oceania
-5130,Oceania
 551,Asia
 552,Asia
 553,Asia
@@ -560,110 +465,15 @@
 610,Asia
 611,Asia
 612,Asia
-613,North America
-614,North America
 615,North America
 616,North America
-617,North America
-618,North America
 619,North America
 620,North America
-621,North America
-622,North America
-623,North America
-5131,Oceania
-624,North America
-625,North America
-626,North America
-627,North America
-628,North America
-629,North America
-630,North America
-631,North America
-632,North America
-633,North America
-634,North America
-635,North America
-636,North America
-637,North America
-638,North America
-639,North America
 640,North America
 641,North America
 642,North America
 643,North America
 644,North America
-645,North America
-646,North America
-647,Europe
-648,Europe
-649,Europe
-650,Europe
-5132,Oceania
-651,Europe
-652,Europe
-653,Europe
-654,Europe
-655,Europe
-656,Europe
-657,Europe
-658,Europe
-659,Europe
-660,Europe
-661,Europe
-662,Europe
-663,Europe
-664,Europe
-665,Europe
-666,Europe
-667,Europe
-668,Europe
-669,Europe
-670,Europe
-671,Europe
-672,Europe
-673,Europe
-674,Europe
-675,Europe
-676,Europe
-677,Europe
-678,Europe
-679,Europe
-680,Europe
-681,Europe
-682,Europe
-683,Europe
-684,Europe
-685,Europe
-686,Europe
-687,Europe
-688,Europe
-689,Europe
-690,Europe
-691,Europe
-692,Europe
-693,Europe
-694,Europe
-695,Europe
-696,Europe
-697,Europe
-698,Europe
-699,Europe
-700,Europe
-701,Europe
-702,Europe
-703,Europe
-704,Europe
-705,Europe
-706,Europe
-707,Europe
-708,Europe
-709,Europe
-710,Europe
-711,Europe
-712,Europe
-713,Europe
-714,Europe
 749,North America
 750,North America
 751,North America
@@ -706,8 +516,6 @@
 788,Africa
 789,Africa
 790,Africa
-5133,Oceania
-5134,Oceania
 791,Africa
 792,Africa
 793,Africa
@@ -939,39 +747,11 @@
 1121,Africa
 1122,Africa
 1123,Africa
-1124,Africa
-1125,Africa
-1126,Africa
-1127,Africa
-1128,Africa
-1129,Africa
-1130,Africa
-1131,Africa
-1132,Africa
 1133,Africa
 1134,Africa
-1135,Africa
-1136,Africa
-1137,Africa
-1138,Africa
-1139,Africa
-1140,Africa
 1141,Africa
 1142,Africa
-1143,Africa
-1144,Africa
-1145,Africa
-1146,Africa
-1147,Africa
-1148,Africa
-1149,Africa
-1150,Africa
-1151,Africa
-1152,Africa
-1153,Africa
-1154,Africa
-1155,Africa
-1156,Africa
+1139,Africa
 1191,Asia
 1192,Asia
 1193,Asia
@@ -1074,56 +854,18 @@
 1290,North America
 1291,North America
 1292,North America
-1293,North America
-1294,North America
-1295,North America
-1296,North America
-1297,North America
-1298,North America
-1299,North America
-1300,North America
-1301,North America
-1302,North America
-1303,North America
-1304,North America
-1305,North America
-1306,North America
-1307,North America
-1308,North America
-1309,North America
-1310,North America
-1311,North America
-1312,North America
-1313,North America
-1314,North America
-1315,North America
-1316,North America
-1317,North America
-1318,North America
-1319,North America
-1320,North America
-1321,North America
-1322,North America
-1323,North America
-1324,North America
-1325,North America
-1326,North America
 1327,Africa
 1328,Africa
 1329,Africa
 1330,Africa
+1315,North America
+1316,North America
 1331,Africa
 1332,Africa
 1333,Africa
 1334,Africa
 1335,Africa
 1336,Africa
-1337,Africa
-1338,Africa
-1339,Africa
-1340,Africa
-1341,Africa
-1342,Africa
 1343,Africa
 1344,Africa
 1345,Africa
@@ -1135,9 +877,9 @@
 1351,Africa
 1352,Africa
 1353,Africa
+1337,Africa
+1338,Africa
 1354,Africa
-1355,Africa
-1356,Africa
 1357,Africa
 1358,Africa
 1359,Africa
@@ -1244,40 +986,6 @@
 1494,Asia
 1495,Asia
 1496,Asia
-1633,Asia
-1634,Asia
-1635,Asia
-1636,Asia
-1637,Asia
-1638,Asia
-1639,Asia
-1640,Asia
-1641,Asia
-1642,Asia
-1643,Asia
-1644,Asia
-1645,Asia
-1646,Asia
-1647,Asia
-1648,Asia
-1649,Asia
-1650,Asia
-1651,Asia
-1652,Asia
-1653,Asia
-1654,Asia
-1655,Asia
-1656,Asia
-1657,Asia
-1658,Asia
-1659,Asia
-1660,Asia
-1661,Asia
-1662,Asia
-1663,Asia
-1664,Asia
-1665,Asia
-1666,Asia
 1667,Asia
 1668,Asia
 1669,Asia
@@ -1286,14 +994,13 @@
 1672,Asia
 1673,Asia
 1674,Asia
+2939,Asia
 1675,Asia
 1676,Asia
 1677,Asia
 1678,Asia
 1679,Asia
 1680,Asia
-1681,Asia
-1682,Asia
 1683,Asia
 1684,Asia
 1685,Asia
@@ -1346,42 +1053,21 @@
 1732,South America
 1733,South America
 1734,South America
-1735,Africa
-1736,Africa
 1737,Africa
 1738,Africa
-1739,Africa
-1740,Africa
-1741,Africa
-1742,Africa
-1743,Africa
-1744,Africa
-1745,Africa
+1757,Africa
+1758,Africa
 1746,Africa
+1769,Africa
 1747,Africa
-1748,Africa
-1749,Africa
-1750,Africa
 1751,Africa
 1752,Africa
 1753,Africa
 1754,Africa
-1755,Africa
-1756,Africa
-1757,Africa
-1758,Africa
-1759,Africa
-1760,Africa
-1761,Africa
-1762,Africa
-1763,Africa
-1764,Africa
 1765,Africa
 1766,Africa
-1767,Africa
-1768,Africa
-1769,Africa
-1770,Africa
+1749,Africa
+1750,Africa
 1771,Africa
 1772,Africa
 1773,Africa
@@ -1390,137 +1076,41 @@
 1776,Africa
 1777,Africa
 1778,Africa
-1779,Africa
-1780,Africa
-1781,Africa
-1782,Africa
-1783,Africa
-1784,Africa
 1785,Africa
 1786,Africa
-1787,Africa
-1788,Africa
-1789,Africa
-1790,Africa
 1791,Africa
 1792,Africa
 1793,Africa
+1779,Africa
+1780,Africa
 1794,Africa
 1795,Africa
 1796,Africa
-1797,Africa
-1798,Africa
-1799,Africa
-1800,Africa
-1801,Africa
-1802,Africa
 1803,Oceania
 1804,Oceania
 1805,Oceania
 1806,Oceania
-1807,Oceania
-1808,Oceania
 1809,Oceania
 1810,Oceania
 1811,Oceania
 1812,Oceania
 1813,Oceania
-1814,Oceania
-1815,Oceania
-1816,Oceania
-1817,Oceania
+1827,Oceania
+1828,Oceania
+1829,Oceania
+1830,Oceania
+1823,Oceania
 1818,Oceania
 1819,Oceania
 1820,Oceania
 1821,Oceania
 1822,Oceania
-1823,Oceania
-1824,Oceania
-1825,Oceania
-1826,Oceania
-1827,Oceania
-1828,Oceania
-1829,Oceania
-1830,Oceania
-1831,Oceania
-1832,Oceania
-1833,Oceania
-1834,Oceania
-1835,Oceania
-1836,Oceania
-1837,North America
-1838,North America
-1839,North America
-1840,North America
-1841,North America
-1842,North America
-1843,North America
-1844,North America
-1845,North America
-1846,North America
-1847,North America
-1848,North America
-1849,North America
-1850,North America
-1851,North America
-1852,North America
-1853,North America
-1854,North America
-1855,North America
-1856,North America
-1857,North America
-1858,North America
-1859,North America
-1860,North America
-1861,North America
-1862,North America
-1863,North America
-1864,North America
-1865,North America
-1866,North America
-1867,North America
-1868,North America
-1869,North America
-1870,North America
-1905,Europe
-1906,Europe
-1907,Europe
-1908,Europe
-1909,Europe
-1910,Europe
-1911,Europe
-1912,Europe
-1913,Europe
-1914,Europe
-1915,Europe
-1916,Europe
-1917,Europe
-1918,Europe
-1919,Europe
-1920,Europe
-1921,Europe
-1922,Europe
-1923,Europe
-1924,Europe
-1925,Europe
-1926,Europe
-1927,Europe
-1928,Europe
-1929,Europe
-1930,Europe
-1931,Europe
-1932,Europe
-1933,Europe
-1934,Europe
-1935,Europe
-1936,Europe
-1937,Europe
-1938,Europe
 1939,North America
 1940,North America
 1941,North America
 1942,North America
 1943,North America
+344,Asia
 1944,North America
 1945,North America
 1946,North America
@@ -1584,6 +1174,7 @@
 2004,Asia
 2005,Asia
 2006,Asia
+2959,Europe
 2143,Europe
 2144,Europe
 2145,Europe
@@ -1618,50 +1209,22 @@
 2174,Europe
 2175,Europe
 2176,Europe
-2177,Africa
-2178,Africa
-2179,Africa
-2180,Africa
 2181,Africa
 2182,Africa
-2183,Africa
-2184,Africa
-2185,Africa
-2186,Africa
-2187,Africa
-2188,Africa
-2189,Africa
-2190,Africa
-2191,Africa
-2192,Africa
-2193,Africa
-2194,Africa
-2195,Africa
-2196,Africa
 2197,Africa
 2198,Africa
-2199,Africa
-2200,Africa
 2201,Africa
 2202,Africa
+2195,Africa
+2196,Africa
+2193,Africa
+2194,Africa
 2203,Africa
 2204,Africa
-2205,Africa
-2206,Africa
-2207,Africa
-2208,Africa
-2209,Africa
-2210,Africa
-2211,North America
-2212,North America
 2213,North America
 2214,North America
 2215,North America
 2216,North America
-2217,North America
-2218,North America
-2219,North America
-2220,North America
 2221,North America
 2222,North America
 2223,North America
@@ -1672,14 +1235,18 @@
 2228,North America
 2229,North America
 2230,North America
+2217,North America
+2218,North America
+2209,Africa
+2210,Africa
+2207,Africa
+2208,Africa
 2231,North America
 2232,North America
 2233,North America
 2234,North America
 2235,North America
 2236,North America
-2237,North America
-2238,North America
 2239,North America
 2240,North America
 2241,North America
@@ -1753,7 +1320,6 @@
 2309,South America
 2310,South America
 2311,South America
-5135,Asia
 2312,South America
 2313,Africa
 2314,Africa
@@ -1823,176 +1389,27 @@
 2378,North America
 2379,North America
 2380,North America
-2381,Africa
-2382,Africa
 2383,Africa
 2384,Africa
 2385,Africa
 2386,Africa
-2387,Africa
-2388,Africa
 2389,Africa
 2390,Africa
 2391,Africa
 2392,Africa
 2393,Africa
-2394,Africa
-2395,Africa
-2396,Africa
-2397,Africa
-2398,Africa
-2399,Africa
-2400,Africa
-2401,Africa
-2402,Africa
-2403,Africa
-2404,Africa
-2405,Africa
-2406,Africa
 2407,Africa
 2408,Africa
+2401,Africa
+2402,Africa
+2405,Africa
+2406,Africa
+2403,Africa
+2404,Africa
+2399,Africa
+2400,Africa
 2409,Africa
-2410,Africa
-2411,Africa
-2412,Africa
-2413,Africa
-2414,Africa
-2415,Africa
-2416,Africa
-2417,Africa
-2418,Africa
-2419,Africa
-2420,Africa
-2421,Africa
-2422,Africa
-2423,Africa
-2424,Africa
-2425,Africa
-2426,Africa
-2427,Africa
-2428,Africa
-2429,Africa
-2430,Africa
-2431,Africa
-2432,Africa
-2433,Africa
-2434,Africa
-2435,Africa
-2436,Africa
-2437,Africa
-2438,Africa
-2439,Africa
-2440,Africa
-2441,Africa
-2442,Africa
-2443,Africa
-2444,Africa
-2445,Africa
-2446,Africa
-2447,Africa
-2448,Africa
-2449,Europe
-2450,Europe
-2451,Europe
-2452,Europe
-2453,Europe
-2454,Europe
-2455,Europe
-2456,Europe
-2457,Europe
-2458,Europe
-2459,Europe
-2460,Europe
-2461,Europe
-2462,Europe
-2463,Europe
-2464,Europe
-2465,Europe
-2466,Europe
-2467,Europe
-2468,Europe
-2469,Europe
-2470,Europe
-2471,Europe
-2472,Europe
-2473,Europe
-2474,Europe
-2475,Europe
-2476,Europe
-2477,Europe
-2478,Europe
-2479,Europe
-2480,Europe
-2481,Europe
-2482,Europe
-2517,Africa
-2518,Africa
-2519,Africa
-2520,Africa
-2521,Africa
-2522,Africa
-2523,Africa
-2524,Africa
-2525,Africa
 2526,Africa
-2527,Africa
-2528,Africa
-2529,Africa
-2530,Africa
-2531,Africa
-2532,Africa
-2533,Africa
-2534,Africa
-2535,Africa
-2536,Africa
-2537,Africa
-2538,Africa
-2539,Africa
-2540,Africa
-2541,Africa
-2542,Africa
-2543,Africa
-2544,Africa
-2545,Africa
-2546,Africa
-2547,Africa
-2548,Africa
-2549,Africa
-2550,Africa
-2585,South America
-2586,South America
-2587,South America
-2588,South America
-2589,South America
-2590,South America
-2591,South America
-2592,South America
-2593,South America
-2594,South America
-2595,South America
-2596,South America
-2597,South America
-2598,South America
-2599,South America
-2600,South America
-2601,South America
-2602,South America
-2603,South America
-2604,South America
-2605,South America
-2606,South America
-2607,South America
-2608,South America
-2609,South America
-2610,South America
-2611,South America
-2612,South America
-2613,South America
-2614,South America
-2615,South America
-2616,South America
-2617,South America
-2618,South America
 2619,Europe
 2620,Europe
 2621,Europe
@@ -2197,8 +1614,6 @@
 2820,Oceania
 2821,Oceania
 2822,Oceania
-2857,Africa
-2858,Africa
 2859,Africa
 2860,Africa
 2861,Africa
@@ -2207,26 +1622,18 @@
 2864,Africa
 2865,Africa
 2866,Africa
-2867,Africa
-2868,Africa
-2869,Africa
-2870,Africa
-2871,Africa
-2872,Africa
 2873,Africa
 2874,Africa
-2875,Africa
-2876,Africa
 2877,Africa
 2878,Africa
 2879,Africa
 2880,Africa
+2867,Africa
+2868,Africa
 2881,Africa
 2882,Africa
 2883,Africa
 2884,Africa
-2885,Africa
-2886,Africa
 2887,Africa
 2888,Africa
 2889,Africa
@@ -2265,41 +1672,6 @@
 2922,Africa
 2923,Africa
 2924,Africa
-2925,Asia
-2926,Asia
-2927,Asia
-2928,Asia
-2929,Asia
-2930,Asia
-2931,Asia
-2932,Asia
-2933,Asia
-2934,Asia
-2935,Asia
-2936,Asia
-2937,Asia
-2938,Asia
-2939,Asia
-2940,Asia
-2941,Asia
-2942,Asia
-2943,Asia
-2944,Asia
-2945,Asia
-2946,Asia
-2947,Asia
-2948,Asia
-2949,Asia
-2950,Asia
-2951,Asia
-2952,Asia
-2953,Asia
-2954,Asia
-2955,Asia
-2956,Asia
-2957,Asia
-2958,Asia
-2959,Europe
 2960,Europe
 2961,Europe
 2962,Europe
@@ -2525,7 +1897,6 @@
 3182,North America
 3183,North America
 3184,North America
-5136,Asia
 3185,North America
 3186,North America
 3187,North America
@@ -2660,8 +2031,6 @@
 3316,South America
 3317,South America
 3318,South America
-3319,South America
-3320,South America
 3321,South America
 3322,South America
 3323,South America
@@ -3021,33 +2390,6 @@
 3779,North America
 3780,North America
 3781,North America
-3782,North America
-3783,North America
-3784,North America
-3785,North America
-3786,North America
-3787,North America
-3788,North America
-3789,North America
-3790,North America
-3791,North America
-3792,North America
-3793,North America
-3794,North America
-3795,North America
-3796,North America
-3797,North America
-3798,North America
-3799,North America
-3800,North America
-3801,North America
-3802,North America
-3803,North America
-3804,North America
-3805,North America
-3806,North America
-3807,North America
-3808,North America
 3809,Asia
 3810,Asia
 3811,Asia
@@ -3062,6 +2404,8 @@
 3820,Asia
 3821,Asia
 3822,Asia
+3799,North America
+3800,North America
 3823,Asia
 3824,Asia
 3825,Asia
@@ -3117,6 +2461,8 @@
 3875,Asia
 3876,Asia
 3911,Africa
+478,Asia
+706,Europe
 3912,Africa
 3913,Africa
 3914,Africa
@@ -3150,45 +2496,25 @@
 3942,Africa
 3943,Africa
 3944,Africa
-3945,Oceania
-3946,Oceania
-3947,Oceania
-3948,Oceania
-3949,Oceania
-3950,Oceania
-3951,Oceania
-3952,Oceania
-3953,Oceania
-3954,Oceania
 3955,Oceania
 3956,Oceania
-3957,Oceania
-3958,Oceania
-3959,Oceania
-3960,Oceania
-3961,Oceania
-3962,Oceania
-3963,Oceania
-3964,Oceania
-3965,Oceania
-3966,Oceania
-3967,Oceania
-3968,Oceania
-3969,Oceania
-3970,Oceania
-3971,Oceania
-3972,Oceania
-3973,Oceania
-3974,Oceania
-3975,Oceania
-3976,Oceania
-3977,Oceania
-3978,Oceania
+3951,Oceania
+3952,Oceania
 3979,Asia
 3980,Asia
 3981,Asia
 3982,Asia
 3983,Asia
+3969,Oceania
+3970,Oceania
+3967,Oceania
+3973,Oceania
+3974,Oceania
+3968,Oceania
+3977,Oceania
+3978,Oceania
+3971,Oceania
+3972,Oceania
 3984,Asia
 3985,Asia
 3986,Asia
@@ -3218,108 +2544,9 @@
 4010,Asia
 4011,Asia
 4012,Asia
-4013,Asia
-4014,Asia
-4015,Asia
-4016,Asia
-4017,Asia
-4018,Asia
-4019,Asia
-4020,Asia
-4021,Asia
-4022,Asia
-4023,Asia
-4024,Asia
-4025,Asia
-4026,Asia
-4027,Asia
-4028,Asia
-4029,Asia
-4030,Asia
-4031,Asia
-4032,Asia
-4033,Asia
-4034,Asia
-4035,Asia
-4036,Asia
-4037,Asia
-4038,Asia
-4039,Asia
-4040,Asia
-4041,Asia
-4042,Asia
-4043,Asia
-4044,Asia
-4045,Asia
-4046,Asia
-4047,Asia
-4048,Asia
-4049,Asia
-4050,Asia
-4051,Asia
-4052,Asia
-4053,Asia
-4054,Asia
-4055,Asia
-4056,Asia
-4057,Asia
-4058,Asia
-4059,Asia
-4060,Asia
-4061,Asia
-4062,Asia
-4063,Asia
-4064,Asia
-4065,Asia
-4066,Asia
-4067,Asia
-4068,Asia
-4069,Asia
-4070,Asia
-4071,Asia
-4072,Asia
-4073,Asia
-4074,Asia
-4075,Asia
-4076,Asia
-4077,Asia
-4078,Asia
-4079,Asia
-4080,Asia
-4081,Europe
+5571,Asia
+484,Asia
 4082,Europe
-4083,Europe
-4084,Europe
-4085,Europe
-4086,Europe
-4087,Europe
-4088,Europe
-4089,Europe
-4090,Europe
-4091,Europe
-4092,Europe
-4093,Europe
-4094,Europe
-4095,Europe
-4096,Europe
-4097,Europe
-4098,Europe
-4099,Europe
-4100,Europe
-4101,Europe
-4102,Europe
-4103,Europe
-4104,Europe
-4105,Europe
-4106,Europe
-4107,Europe
-4108,Europe
-4109,Europe
-4110,Europe
-4111,Europe
-4112,Europe
-4113,Europe
-4114,Europe
 4115,Asia
 4116,Asia
 4117,Asia
@@ -3396,30 +2623,20 @@
 4188,Africa
 4189,Africa
 4190,Africa
-4191,Africa
-4192,Africa
 4193,Africa
 4194,Africa
-4195,Africa
-4196,Africa
-4197,Africa
-4198,Africa
-4199,Africa
-4200,Africa
-4201,Africa
-4202,Africa
-4203,Africa
-4204,Africa
-4205,Africa
-4206,Africa
 4207,Africa
 4208,Africa
 4209,Africa
+4191,Africa
+4192,Africa
+4195,Africa
+4196,Africa
+4201,Africa
+4202,Africa
 4210,Africa
 4211,Africa
 4212,Africa
-4213,Africa
-4214,Africa
 4215,Africa
 4216,Africa
 4251,Europe
@@ -3456,74 +2673,6 @@
 4282,Europe
 4283,Europe
 4284,Europe
-4285,Europe
-4286,Europe
-4287,Europe
-4288,Europe
-4289,Europe
-4290,Europe
-4291,Europe
-4292,Europe
-4293,Europe
-4294,Europe
-4295,Europe
-4296,Europe
-4297,Europe
-4298,Europe
-4299,Europe
-4300,Europe
-4301,Europe
-4302,Europe
-4303,Europe
-4304,Europe
-4305,Europe
-4306,Europe
-4307,Europe
-4308,Europe
-4309,Europe
-4310,Europe
-4311,Europe
-4312,Europe
-4313,Europe
-4314,Europe
-4315,Europe
-4316,Europe
-4317,Europe
-4318,Europe
-4319,Europe
-4320,Europe
-4321,Europe
-4322,Europe
-4323,Europe
-4324,Europe
-4325,Europe
-4326,Europe
-4327,Europe
-4328,Europe
-4329,Europe
-4330,Europe
-4331,Europe
-4332,Europe
-4333,Europe
-4334,Europe
-4335,Europe
-4336,Europe
-4337,Europe
-4338,Europe
-4339,Europe
-4340,Europe
-4341,Europe
-4342,Europe
-4343,Europe
-4344,Europe
-4345,Europe
-4346,Europe
-4347,Europe
-4348,Europe
-4349,Europe
-4350,Europe
-4351,Europe
-4352,Europe
 4353,Africa
 4354,Africa
 4355,Africa
@@ -3538,24 +2687,17 @@
 4364,Africa
 4365,Africa
 4366,Africa
+4330,Europe
 4367,Africa
 4368,Africa
 4369,Africa
 4370,Africa
-4371,Africa
-4372,Africa
-4373,Africa
-4374,Africa
-4375,Africa
-4376,Africa
 4377,Africa
 4378,Africa
 4379,Africa
 4380,Africa
 4381,Africa
 4382,Africa
-4383,Africa
-4384,Africa
 4385,Africa
 4386,Africa
 4387,Africa
@@ -3564,14 +2706,8 @@
 4390,Africa
 4391,Africa
 4392,Africa
-4393,Africa
-4394,Africa
 4395,Africa
 4396,Africa
-4397,Africa
-4398,Africa
-4399,Africa
-4400,Africa
 4401,Africa
 4402,Africa
 4403,Africa
@@ -3582,12 +2718,10 @@
 4408,Africa
 4409,Africa
 4410,Africa
-4411,Africa
-4412,Africa
 4413,Africa
 4414,Africa
-4415,Africa
-4416,Africa
+4393,Africa
+4394,Africa
 4417,Africa
 4418,Africa
 4419,Africa
@@ -3626,40 +2760,8 @@
 4452,Asia
 4453,Asia
 4454,Asia
-4455,Asia
-4456,Asia
-4457,Asia
-4458,Asia
-4459,Asia
-4460,Asia
-4461,Asia
-4462,Asia
-4463,Asia
-4464,Asia
-4465,Asia
-4466,Asia
-4467,Asia
-4468,Asia
-4469,Asia
-4470,Asia
-4471,Asia
-4472,Asia
-4473,Asia
-4474,Asia
-4475,Asia
-4476,Asia
-4477,Asia
-4478,Asia
-4479,Asia
-4480,Asia
-4481,Asia
-4482,Asia
-4483,Asia
-4484,Asia
-4485,Asia
-4486,Asia
-4487,Asia
-4488,Asia
+489,Asia
+490,Asia
 4489,Africa
 4490,Africa
 4491,Africa
@@ -3728,51 +2830,18 @@
 4554,Europe
 4555,Europe
 4556,Europe
-4557,Oceania
 4558,Oceania
-4559,Oceania
-4560,Oceania
-4561,Oceania
-4562,Oceania
-4563,Oceania
-4564,Oceania
-4565,Oceania
-4566,Oceania
-4567,Oceania
-4568,Oceania
-4569,Oceania
-4570,Oceania
-4571,Oceania
-4572,Oceania
-4573,Oceania
-4574,Oceania
-4575,Oceania
-4576,Oceania
-4577,Oceania
-4578,Oceania
-4579,Oceania
-4580,Oceania
-4581,Oceania
-4582,Oceania
-4583,Oceania
-4584,Oceania
-4585,Oceania
-4586,Oceania
-4587,Oceania
-4588,Oceania
-4589,Oceania
-4590,Oceania
 4591,North America
 4592,North America
 4593,North America
 4594,North America
 4595,North America
 4596,North America
-4597,North America
-4598,North America
 4599,North America
 4600,North America
 4601,North America
+4597,North America
+4598,North America
 4602,North America
 4603,North America
 4604,North America
@@ -3865,39 +2934,14 @@
 4691,Africa
 4692,Africa
 4693,Africa
-4694,Africa
-4695,Africa
-4696,Africa
-4697,Africa
 4698,Africa
-4699,Africa
-4700,Africa
 4701,Africa
-4702,Africa
-4703,Africa
-4704,Africa
-4705,Africa
-4706,Africa
-4707,Africa
-4708,Africa
-4709,Africa
-4710,Africa
-4711,Africa
-4712,Africa
-4713,Africa
-4714,Africa
 4715,Africa
 4716,Africa
 4717,Africa
 4718,Africa
-4719,Africa
-4720,Africa
-4721,Africa
-4722,Africa
-4723,Africa
-4724,Africa
-4725,Africa
-4726,Africa
+4699,Africa
+4700,Africa
 4727,North America
 4728,North America
 4729,North America
@@ -4000,77 +3044,18 @@
 4894,Asia
 4895,Asia
 4896,Asia
-4897,Europe
-4898,Europe
-4899,Europe
-4900,Europe
-4901,Europe
-4902,Europe
-4903,Europe
-4904,Europe
-4905,Europe
-4906,Europe
-4907,Europe
-4908,Europe
-4909,Europe
-4910,Europe
-4911,Europe
-4912,Europe
-4913,Europe
-4914,Europe
-4915,Europe
-4916,Europe
-4917,Europe
-4918,Europe
-4919,Europe
-4920,Europe
-4921,Europe
-4922,Europe
-4923,Europe
-4924,Europe
-4925,Europe
-4926,Europe
-4927,Europe
-4928,Europe
-4929,Europe
-4930,Europe
 4931,North America
 4932,North America
 4933,North America
 4934,North America
 4935,North America
-4936,North America
-4937,North America
-4938,North America
-4939,North America
-4940,North America
-4941,North America
-4942,North America
-4943,North America
-4944,North America
-4945,North America
-4946,North America
-4947,North America
-4948,North America
-4949,North America
-4950,North America
+4965,Africa
+4966,Africa
+4967,Africa
 4951,North America
 4952,North America
 4953,North America
 4954,North America
-4955,North America
-4956,North America
-4957,North America
-4958,North America
-4959,North America
-4960,North America
-4961,North America
-4962,North America
-4963,North America
-4964,North America
-4965,Africa
-4966,Africa
-4967,Africa
 4968,Africa
 4969,Africa
 4970,Africa
@@ -4205,17 +3190,9 @@
 5099,Africa
 5100,Africa
 5101,Oceania
-5102,Oceania
-5103,Oceania
-5104,Oceania
-5105,Oceania
-5106,Oceania
-5107,Oceania
-5108,Oceania
-5109,Oceania
-5110,Oceania
-5111,Oceania
-5112,Oceania
+712,Europe
+5135,Asia
+5136,Asia
 5137,Asia
 5138,Asia
 5139,Asia
@@ -4235,6 +3212,7 @@
 5153,Asia
 5154,Asia
 5155,Asia
+5127,Oceania
 5156,Asia
 5157,Asia
 5158,Asia
@@ -4318,6 +3296,7 @@
 5270,Oceania
 5271,Oceania
 5272,Oceania
+8069,Oceania
 5273,Oceania
 5274,Oceania
 5275,Oceania
@@ -4374,7 +3353,6 @@
 5326,North America
 5327,North America
 5328,North America
-6888,Africa
 5329,North America
 5330,North America
 5331,North America
@@ -4455,72 +3433,16 @@
 5406,Africa
 5407,Oceania
 5408,Oceania
-5409,Oceania
-5410,Oceania
-5411,Oceania
-5412,Oceania
-5413,Oceania
-5414,Oceania
-5415,Oceania
-5416,Oceania
-5417,Oceania
-5418,Oceania
-5419,Oceania
-5420,Oceania
-5421,Oceania
-5422,Oceania
-5423,Oceania
-5424,Oceania
-5425,Oceania
-5426,Oceania
-5427,Oceania
-5428,Oceania
-5429,Oceania
-5430,Oceania
 5431,Oceania
 5432,Oceania
 5433,Oceania
-5434,Oceania
-5435,Oceania
-5436,Oceania
-5437,Oceania
-5438,Oceania
-5439,Oceania
-5440,Oceania
-5441,Oceania
-5442,Oceania
-5443,Oceania
-5444,Oceania
 5445,Oceania
 5446,Oceania
-5447,Oceania
-5448,Oceania
-5449,Oceania
-5450,Oceania
-5451,Oceania
-5452,Oceania
-5453,Oceania
-5454,Oceania
 5455,Oceania
 5456,Oceania
-5457,Oceania
-5458,Oceania
-5459,Oceania
-5460,Oceania
-5461,Oceania
-5462,Oceania
-5463,Oceania
-5464,Oceania
 5465,Oceania
 5466,Oceania
 5467,Oceania
-5468,Oceania
-5469,Oceania
-5470,Oceania
-5471,Oceania
-5472,Oceania
-5473,Oceania
-5474,Oceania
 5509,Europe
 5510,Europe
 5511,Europe
@@ -4532,6 +3454,7 @@
 5517,Europe
 5518,Europe
 5519,Europe
+2424,Africa
 5520,Europe
 5521,Europe
 5522,Europe
@@ -4567,10 +3490,6 @@
 5552,Asia
 5553,Asia
 5554,Asia
-5555,Asia
-5556,Asia
-5557,Asia
-5558,Asia
 5559,Asia
 5560,Asia
 5561,Asia
@@ -4580,11 +3499,11 @@
 5565,Asia
 5566,Asia
 5567,Asia
+5555,Asia
+5556,Asia
 5568,Asia
 5569,Asia
 5570,Asia
-5571,Asia
-5572,Asia
 5573,Asia
 5574,Asia
 5575,Asia
@@ -4623,79 +3542,14 @@
 5642,Asia
 5643,Asia
 5644,Asia
-5645,Oceania
-5646,Oceania
-5647,Oceania
-5648,Oceania
-5649,Oceania
-5650,Oceania
-5651,Oceania
-5652,Oceania
-5653,Oceania
 5654,Oceania
-5655,Oceania
-5656,Oceania
-5657,Oceania
-5658,Oceania
-5659,Oceania
-5660,Oceania
-5661,Oceania
-5662,Oceania
-5663,Oceania
-5664,Oceania
-5665,Oceania
-5666,Oceania
-5667,Oceania
-5668,Oceania
-5669,Oceania
-5670,Oceania
-5671,Oceania
-5672,Oceania
-5673,Oceania
-5674,Oceania
-5675,Oceania
-5676,Oceania
-5677,Oceania
-5678,Oceania
-5713,North America
-5714,North America
-5715,North America
-5716,North America
-5717,North America
-5718,North America
-5719,North America
-5720,North America
-5721,North America
-5722,North America
-5723,North America
-5724,North America
-5725,North America
-5726,North America
-5727,North America
-5728,North America
-5729,North America
-5730,North America
-5731,North America
-5732,North America
-5733,North America
-5734,North America
-5735,North America
-5736,North America
-5737,North America
-5738,North America
-5739,North America
-5740,North America
-5741,North America
-5742,North America
-5743,North America
-5744,North America
-5745,North America
-5746,North America
+501,Asia
 5747,Oceania
 5748,Oceania
 5749,Oceania
 5750,Oceania
 5751,Oceania
+5718,North America
 5752,Oceania
 5753,Oceania
 5754,Oceania
@@ -4719,6 +3573,7 @@
 5772,Oceania
 5773,Oceania
 5774,Oceania
+8070,Oceania
 5775,Oceania
 5776,Oceania
 5777,Oceania
@@ -4963,6 +3818,7 @@
 6050,Asia
 6051,Asia
 6052,Asia
+506,Asia
 6155,Europe
 6156,Europe
 6157,Europe
@@ -4997,74 +3853,13 @@
 6186,Europe
 6187,Europe
 6188,Europe
-6189,Europe
-6190,Europe
-6191,Europe
-6192,Europe
-6193,Europe
-6194,Europe
-6195,Europe
-6196,Europe
-6197,Europe
-6198,Europe
-6199,Europe
-6200,Europe
-6201,Europe
-6202,Europe
-6203,Europe
-6204,Europe
-6205,Europe
-6206,Europe
-6207,Europe
-6208,Europe
-6209,Europe
-6210,Europe
-6211,Europe
-6212,Europe
-6213,Europe
-6214,Europe
-6215,Europe
-6216,Europe
-6217,Europe
-6218,Europe
-6219,Europe
-6220,Europe
-6221,Europe
-6222,Europe
 6223,Africa
-6224,Africa
-6225,Africa
-6226,Africa
-6227,Africa
-6228,Africa
-6229,Africa
-6230,Africa
-6231,Africa
-6232,Africa
-6233,Africa
-6234,Africa
-6235,Africa
-6236,Africa
 6237,Africa
 6238,Africa
-6239,Africa
-6240,Africa
-6241,Africa
-6242,Africa
-6243,Africa
-6244,Africa
-6245,Africa
-6246,Africa
-6247,Africa
-6248,Africa
-6249,Africa
-6250,Africa
+6233,Africa
+6234,Africa
 6251,Africa
 6252,Africa
-6253,Africa
-6254,Africa
-6255,Africa
-6256,Africa
 6325,North America
 6326,North America
 6327,North America
@@ -5099,40 +3894,18 @@
 6356,North America
 6357,North America
 6358,North America
+8071,Oceania
 6427,Oceania
 6428,Oceania
-6429,Oceania
-6430,Oceania
-6431,Oceania
-6432,Oceania
-6433,Oceania
-6434,Oceania
-6435,Oceania
-6436,Oceania
-6437,Oceania
-6438,Oceania
-6439,Oceania
-6440,Oceania
-6441,Oceania
-6442,Oceania
-6443,Oceania
-6444,Oceania
-6445,Oceania
-6446,Oceania
-6447,Oceania
-6448,Oceania
-6449,Oceania
-6450,Oceania
 6451,Oceania
 6452,Oceania
+6434,Oceania
+6437,Oceania
+6438,Oceania
 6453,Oceania
 6454,Oceania
-6455,Oceania
-6456,Oceania
-6457,Oceania
-6458,Oceania
-6459,Oceania
-6460,Oceania
+6435,Oceania
+6436,Oceania
 6461,Europe
 6462,Europe
 6463,Europe
@@ -5156,7 +3929,6 @@
 6481,Europe
 6482,Europe
 6483,Europe
-6889,Africa
 6484,Europe
 6485,Europe
 6486,Europe
@@ -5236,42 +4008,10 @@
 6594,Africa
 6595,Africa
 6596,Africa
-6597,Europe
 6598,Europe
-6599,Europe
-6600,Europe
-6601,Europe
-6602,Europe
-6603,Europe
-6604,Europe
-6605,Europe
-6606,Europe
-6607,Europe
-6608,Europe
-6609,Europe
-6610,Europe
-6611,Europe
-6612,Europe
-6613,Europe
-6614,Europe
-6615,Europe
-6616,Europe
-6617,Europe
-6618,Europe
-6619,Europe
-6620,Europe
-6621,Europe
-6622,Europe
-6623,Europe
-6624,Europe
-6625,Europe
-6626,Europe
-6627,Europe
-6628,Europe
-6629,Europe
-6630,Europe
 6665,Africa
 6666,Africa
+6613,Europe
 6667,Africa
 6668,Africa
 6669,Africa
@@ -5304,176 +4044,37 @@
 6696,Africa
 6697,Africa
 6698,Africa
-6699,Africa
-6700,Africa
-6701,Africa
-6702,Africa
 6703,Africa
 6704,Africa
-6705,Africa
-6706,Africa
-6707,Africa
-6708,Africa
-6709,Africa
-6710,Africa
+6699,Africa
+6700,Africa
 6711,Africa
 6712,Africa
-6713,Africa
-6714,Africa
-6715,Africa
-6716,Africa
-6717,Africa
-6718,Africa
-6719,Africa
-6720,Africa
 6721,Africa
 6722,Africa
+6715,Africa
+6716,Africa
+6727,Africa
+6728,Africa
 6723,Africa
 6724,Africa
 6725,Africa
 6726,Africa
-6727,Africa
-6728,Africa
-6729,Africa
-6730,Africa
 6731,Africa
 6732,Africa
-6733,Asia
-6734,Asia
-6735,Asia
-6736,Asia
-6737,Asia
-6738,Asia
-6739,Asia
-6740,Asia
-6741,Asia
 6742,Asia
 6743,Asia
 6744,Asia
 6745,Asia
-6746,Asia
-6747,Asia
-6748,Asia
-6749,Asia
-6750,Asia
-6751,Asia
-6752,Asia
-6753,Asia
-6754,Asia
-6755,Asia
-6756,Asia
-6757,Asia
-6758,Asia
-6759,Asia
-6760,Asia
-6761,Asia
-6762,Asia
-6763,Asia
-6764,Asia
-6765,Asia
-6766,Asia
-6767,Europe
-6768,Europe
-6769,Europe
-6770,Europe
-6771,Europe
-6772,Europe
-6773,Europe
-6774,Europe
-6775,Europe
-6776,Europe
-6777,Europe
-6778,Europe
-6779,Europe
-6780,Europe
-6781,Europe
-6782,Europe
-6783,Europe
-6784,Europe
-6785,Europe
-6786,Europe
-6787,Europe
-6788,Europe
-6789,Europe
-6790,Europe
-6791,Europe
-6792,Europe
-6793,Europe
-6794,Europe
-6795,Europe
-6796,Europe
-6797,Europe
-6798,Europe
-6799,Europe
-6800,Europe
-6801,Europe
-6802,Europe
-6803,Europe
-6804,Europe
-6805,Europe
-6806,Europe
-6807,Europe
-6808,Europe
-6809,Europe
-6810,Europe
-6811,Europe
-6812,Europe
-6813,Europe
-6814,Europe
-6815,Europe
-6816,Europe
-6817,Europe
-6818,Europe
-6819,Europe
-6820,Europe
-6821,Europe
-6822,Europe
-6823,Europe
-6824,Europe
-6825,Europe
-6826,Europe
-6827,Europe
-6828,Europe
-6829,Europe
-6830,Europe
-6831,Europe
-6832,Europe
-6833,Europe
-6834,Europe
+6843,Oceania
+6844,Oceania
 6835,Oceania
 6836,Oceania
 6837,Oceania
 6838,Oceania
-6839,Oceania
-6840,Oceania
+6851,Oceania
 6841,Oceania
 6842,Oceania
-6843,Oceania
-6844,Oceania
-6845,Oceania
-6846,Oceania
-6847,Oceania
-6848,Oceania
-6849,Oceania
-6850,Oceania
-6851,Oceania
-6852,Oceania
-6853,Oceania
-6854,Oceania
-6855,Oceania
-6856,Oceania
-6857,Oceania
-6858,Oceania
-6859,Oceania
-6860,Oceania
-6861,Oceania
-6862,Oceania
-6863,Oceania
-6864,Oceania
-6865,Oceania
-6866,Oceania
-6867,Oceania
-6868,Oceania
 6869,Africa
 6870,Africa
 6871,Africa
@@ -5488,11 +4089,15 @@
 6880,Africa
 6881,Africa
 6882,Africa
+6859,Oceania
+6860,Oceania
 6883,Africa
 6884,Africa
 6885,Africa
 6886,Africa
 6887,Africa
+6888,Africa
+6889,Africa
 6890,Africa
 6891,Africa
 6892,Africa
@@ -5558,6 +4163,7 @@
 7020,Europe
 7021,Europe
 7022,Europe
+2944,Asia
 7023,Europe
 7024,Europe
 7025,Europe
@@ -5608,40 +4214,6 @@
 7070,Asia
 7071,Asia
 7072,Asia
-7073,Africa
-7074,Africa
-7075,Africa
-7076,Africa
-7077,Africa
-7078,Africa
-7079,Africa
-7080,Africa
-7081,Africa
-7082,Africa
-7083,Africa
-7084,Africa
-7085,Africa
-7086,Africa
-7087,Africa
-7088,Africa
-7089,Africa
-7090,Africa
-7091,Africa
-7092,Africa
-7093,Africa
-7094,Africa
-7095,Africa
-7096,Africa
-7097,Africa
-7098,Africa
-7099,Africa
-7100,Africa
-7101,Africa
-7102,Africa
-7103,Africa
-7104,Africa
-7105,Africa
-7106,Africa
 7141,South America
 7142,South America
 7143,South America
@@ -5778,45 +4350,12 @@
 7308,Asia
 7309,Asia
 7310,Asia
-7311,Asia
-7312,Asia
-7313,Asia
-7314,Asia
-7315,Asia
-7316,Asia
-7317,Asia
-7318,Asia
-7319,Asia
-7320,Asia
-7321,Asia
-7322,Asia
-7323,Asia
-7324,Asia
-7325,Asia
-7326,Asia
-7327,Asia
-7328,Asia
-7329,Asia
-7330,Asia
-7331,Asia
-7332,Asia
-7333,Asia
-7334,Asia
-7335,Asia
-7336,Asia
-7337,Asia
-7338,Asia
-7339,Asia
-7340,Asia
-7341,Asia
-7342,Asia
-7343,Asia
-7344,Asia
 7345,Asia
 7346,Asia
 7347,Asia
 7348,Asia
 7349,Asia
+649,Europe
 7350,Asia
 7351,Asia
 7352,Asia
@@ -5880,40 +4419,6 @@
 7444,Africa
 7445,Africa
 7446,Africa
-7447,Oceania
-7448,Oceania
-7449,Oceania
-7450,Oceania
-7451,Oceania
-7452,Oceania
-7453,Oceania
-7454,Oceania
-7455,Oceania
-7456,Oceania
-7457,Oceania
-7458,Oceania
-7459,Oceania
-7460,Oceania
-7461,Oceania
-7462,Oceania
-7463,Oceania
-7464,Oceania
-7465,Oceania
-7466,Oceania
-7467,Oceania
-7468,Oceania
-7469,Oceania
-7470,Oceania
-7471,Oceania
-7472,Oceania
-7473,Oceania
-7474,Oceania
-7475,Oceania
-7476,Oceania
-7477,Oceania
-7478,Oceania
-7479,Oceania
-7480,Oceania
 7481,Oceania
 7482,Oceania
 7483,Oceania
@@ -6016,64 +4521,23 @@
 7614,Asia
 7615,Asia
 7616,Asia
-7617,Asia
-7618,Asia
-7619,Asia
-7620,Asia
-7621,Asia
-7622,Asia
-7623,Asia
-7624,Asia
-7625,Asia
-7626,Asia
-7627,Asia
-7628,Asia
-7629,Asia
-7630,Asia
-7631,Asia
-7632,Asia
-7633,Asia
-7634,Asia
-7635,Asia
-7636,Asia
-7637,Asia
-7638,Asia
-7639,Asia
-7640,Asia
-7641,Asia
-7642,Asia
-7643,Asia
-7644,Asia
-7645,Asia
-7646,Asia
-7647,Asia
-7648,Asia
-7649,Asia
-7650,Asia
-7685,Oceania
-7686,Oceania
-7687,Oceania
-7688,Oceania
+656,Europe
 7689,Oceania
 7690,Oceania
 7691,Oceania
+7687,Oceania
+7688,Oceania
+7685,Oceania
+7686,Oceania
 7692,Oceania
-7693,Oceania
-7694,Oceania
-7695,Oceania
-7696,Oceania
 7697,Oceania
 7698,Oceania
 7699,Oceania
 7700,Oceania
-7701,Oceania
-7702,Oceania
 7703,Oceania
 7704,Oceania
 7705,Oceania
 7706,Oceania
-7707,Oceania
-7708,Oceania
 7709,Oceania
 7710,Oceania
 7711,Oceania
@@ -6081,6 +4545,12 @@
 7713,Oceania
 7714,Oceania
 7715,Oceania
+7707,Oceania
+7708,Oceania
+7695,Oceania
+7696,Oceania
+7701,Oceania
+7702,Oceania
 7716,Oceania
 7717,Oceania
 7718,Oceania
@@ -6118,40 +4588,6 @@
 7750,Africa
 7751,Africa
 7752,Africa
-7753,Europe
-7754,Europe
-7755,Europe
-7756,Europe
-7757,Europe
-7758,Europe
-7759,Europe
-7760,Europe
-7761,Europe
-7762,Europe
-7763,Europe
-7764,Europe
-7765,Europe
-7766,Europe
-7767,Europe
-7768,Europe
-7769,Europe
-7770,Europe
-7771,Europe
-7772,Europe
-7773,Europe
-7774,Europe
-7775,Europe
-7776,Europe
-7777,Europe
-7778,Europe
-7779,Europe
-7780,Europe
-7781,Europe
-7782,Europe
-7783,Europe
-7784,Europe
-7785,Europe
-7786,Europe
 7787,Asia
 7788,Asia
 7789,Asia
@@ -6254,64 +4690,23 @@
 7988,South America
 7989,South America
 7990,South America
-8025,Asia
-8026,Asia
-8027,Asia
-8028,Asia
-8029,Asia
-8030,Asia
-8031,Asia
-8032,Asia
-8033,Asia
-8034,Asia
-8035,Asia
-8036,Asia
-8037,Asia
-8038,Asia
-8039,Asia
-8040,Asia
-8041,Asia
-8042,Asia
-8043,Asia
-8044,Asia
-8045,Asia
-8046,Asia
-8047,Asia
-8048,Asia
-8049,Asia
-8050,Asia
-8051,Asia
-8052,Asia
-8053,Asia
-8054,Asia
-8055,Asia
-8056,Asia
-8057,Asia
-8058,Asia
-8059,Oceania
-8060,Oceania
 8061,Oceania
 8062,Oceania
-8063,Oceania
-8064,Oceania
 8065,Oceania
 8066,Oceania
 8067,Oceania
 8068,Oceania
-8069,Oceania
-8070,Oceania
-8071,Oceania
+660,Europe
+4926,Europe
+8063,Oceania
+8064,Oceania
+8059,Oceania
+8060,Oceania
 8072,Oceania
-8073,Oceania
-8074,Oceania
 8075,Oceania
 8076,Oceania
 8077,Oceania
 8078,Oceania
-8079,Oceania
-8080,Oceania
-8081,Oceania
-8082,Oceania
 8083,Oceania
 8084,Oceania
 8085,Oceania
@@ -6322,6 +4717,10 @@
 8090,Oceania
 8091,Oceania
 8092,Oceania
+8073,Oceania
+8074,Oceania
+8079,Oceania
+8080,Oceania
 8127,Asia
 8128,Asia
 8129,Asia
@@ -6356,42 +4755,45 @@
 8158,Asia
 8159,Asia
 8160,Asia
+8229,NOT_FOUND
+8230,NOT_FOUND
+8231,NOT_FOUND
+8232,NOT_FOUND
+8233,NOT_FOUND
+8234,NOT_FOUND
+8235,NOT_FOUND
+8236,NOT_FOUND
+8237,NOT_FOUND
+8238,NOT_FOUND
+8239,NOT_FOUND
+8240,NOT_FOUND
+8241,NOT_FOUND
+8242,NOT_FOUND
+8243,NOT_FOUND
+8244,NOT_FOUND
+8245,NOT_FOUND
+8246,NOT_FOUND
+8247,NOT_FOUND
+8248,NOT_FOUND
+8249,NOT_FOUND
+8250,NOT_FOUND
+8251,NOT_FOUND
+8252,NOT_FOUND
+8253,NOT_FOUND
+8254,NOT_FOUND
+8255,NOT_FOUND
+8256,NOT_FOUND
+8257,NOT_FOUND
+8258,NOT_FOUND
+8259,NOT_FOUND
+8260,NOT_FOUND
+8261,NOT_FOUND
+8262,NOT_FOUND
 8263,Asia
 8264,Asia
 8265,Asia
-8266,Asia
-8267,Asia
-8268,Asia
-8269,Asia
-8270,Asia
-8271,Asia
-8272,Asia
-8273,Asia
-8274,Asia
-8275,Asia
-8276,Asia
-8277,Asia
-8278,Asia
-8279,Asia
-8280,Asia
-8281,Asia
-8282,Asia
-8283,Asia
-8284,Asia
 8285,Asia
 8286,Asia
-8287,Asia
-8288,Asia
-8289,Asia
-8290,Asia
-8291,Asia
-8292,Asia
-8293,Asia
-8294,Asia
-8295,Asia
-8296,Asia
-8331,Africa
-8332,Africa
 8333,Africa
 8334,Africa
 8335,Africa
@@ -6401,6 +4803,8 @@
 8339,Africa
 8340,Africa
 8341,Africa
+8331,Africa
+8332,Africa
 8342,Africa
 8343,Africa
 8344,Africa
@@ -6458,3 +4862,1633 @@
 8396,Africa
 8397,Africa
 8398,Africa
+4929,Europe
+4930,Europe
+1293,North America
+1294,North America
+1297,North America
+1298,North America
+1299,North America
+1300,North America
+4457,Asia
+4455,Asia
+4456,Asia
+4560,Oceania
+4485,Asia
+4486,Asia
+4484,Asia
+4487,Asia
+4488,Asia
+6196,Europe
+6629,Europe
+691,Europe
+692,Europe
+6628,Europe
+5572,Asia
+664,Europe
+4562,Oceania
+5557,Asia
+5558,Asia
+2938,Asia
+698,Europe
+7780,Europe
+702,Europe
+4014,Asia
+491,Asia
+690,Europe
+1652,Asia
+4086,Europe
+4306,Europe
+4564,Oceania
+5735,North America
+5733,North America
+2534,Africa
+2940,Asia
+1301,North America
+1302,North America
+5111,Oceania
+5668,Oceania
+2550,Africa
+5713,North America
+5715,North America
+5717,North America
+5719,North America
+5721,North America
+5723,North America
+5725,North America
+5727,North America
+5729,North America
+5731,North America
+5737,North America
+5739,North America
+5741,North America
+5743,North America
+5745,North America
+7320,Asia
+350,Asia
+8034,Asia
+4924,Europe
+1306,North America
+1307,North America
+1308,North America
+1319,North America
+391,North America
+392,North America
+5125,Oceania
+5119,Oceania
+4458,Asia
+4459,Asia
+4460,Asia
+4461,Asia
+4462,Asia
+4479,Asia
+4480,Asia
+4473,Asia
+4474,Asia
+4471,Asia
+4472,Asia
+4481,Asia
+4482,Asia
+4470,Asia
+4475,Asia
+4476,Asia
+4477,Asia
+2934,Asia
+6790,Europe
+2954,Asia
+4304,Europe
+5128,Oceania
+7076,Africa
+714,Europe
+711,Europe
+713,Europe
+1849,North America
+1851,North America
+1855,North America
+1847,North America
+1853,North America
+1845,North America
+1865,North America
+1867,North America
+1859,North America
+1857,North America
+5421,Oceania
+5422,Oceania
+5423,Oceania
+1837,North America
+1861,North America
+1839,North America
+1869,North America
+7093,Africa
+5409,Oceania
+5410,Oceania
+5411,Oceania
+5412,Oceania
+1841,North America
+1843,North America
+1863,North America
+496,Asia
+2522,Africa
+7091,Africa
+495,Asia
+7693,Oceania
+7694,Oceania
+4465,Asia
+4466,Asia
+4469,Asia
+4478,Asia
+4483,Asia
+2524,Africa
+4463,Asia
+4464,Asia
+4467,Asia
+4468,Asia
+1655,Asia
+1649,Asia
+1653,Asia
+1651,Asia
+1663,Asia
+7754,Europe
+1633,Asia
+1637,Asia
+1645,Asia
+1657,Asia
+1635,Asia
+2450,Europe
+4098,Europe
+6608,Europe
+2423,Africa
+498,Asia
+497,Asia
+358,Asia
+2926,Asia
+5114,Oceania
+5116,Oceania
+1681,Asia
+1682,Asia
+5457,Oceania
+5458,Oceania
+2925,Asia
+1124,Africa
+1127,Africa
+1128,Africa
+1755,Africa
+1756,Africa
+5447,Oceania
+5448,Oceania
+6247,Africa
+6248,Africa
+5449,Oceania
+5450,Oceania
+5451,Oceania
+5452,Oceania
+5453,Oceania
+5459,Oceania
+5460,Oceania
+5110,Oceania
+1735,Africa
+1736,Africa
+393,North America
+394,North America
+387,North America
+388,North America
+386,North America
+403,North America
+404,North America
+407,North America
+408,North America
+4697,Africa
+4709,Africa
+4710,Africa
+4703,Africa
+4704,Africa
+6739,Asia
+6740,Asia
+6741,Asia
+3785,North America
+3786,North America
+3787,North America
+3788,North America
+3789,North America
+3783,North America
+3784,North America
+402,North America
+1143,Africa
+6239,Africa
+6240,Africa
+6245,Africa
+6246,Africa
+4702,Africa
+4719,Africa
+4720,Africa
+4723,Africa
+4724,Africa
+6733,Asia
+6249,Africa
+4705,Africa
+4725,Africa
+4726,Africa
+6254,Africa
+4706,Africa
+4721,Africa
+4722,Africa
+6229,Africa
+4713,Africa
+4714,Africa
+6230,Africa
+6235,Africa
+6236,Africa
+6243,Africa
+3790,North America
+3803,North America
+3804,North America
+3791,North America
+3792,North America
+3793,North America
+3794,North America
+3795,North America
+2549,Africa
+3801,North America
+3802,North America
+3807,North America
+3808,North America
+6226,Africa
+493,Asia
+3796,North America
+3797,North America
+3798,North America
+3805,North America
+3806,North America
+2546,Africa
+370,Asia
+383,North America
+384,North America
+381,North America
+389,North America
+395,North America
+396,North America
+382,North America
+401,North America
+3782,North America
+390,North America
+405,North America
+406,North America
+629,North America
+630,North America
+631,North America
+632,North America
+635,North America
+1145,Africa
+625,North America
+626,North America
+627,North America
+628,North America
+5722,North America
+634,North America
+1137,Africa
+1138,Africa
+1151,Africa
+2932,Asia
+686,Europe
+613,North America
+614,North America
+638,North America
+2589,South America
+633,North America
+1647,Asia
+621,North America
+622,North America
+637,North America
+1739,Africa
+1740,Africa
+1743,Africa
+1744,Africa
+1745,Africa
+1759,Africa
+1760,Africa
+1761,Africa
+1762,Africa
+4694,Africa
+4695,Africa
+4696,Africa
+1763,Africa
+1748,Africa
+4711,Africa
+4712,Africa
+639,North America
+617,North America
+618,North America
+645,North America
+646,North America
+623,North America
+624,North America
+1639,Asia
+1659,Asia
+1661,Asia
+1665,Asia
+7080,Africa
+2458,Europe
+499,Asia
+1126,Africa
+1129,Africa
+7079,Africa
+1741,Africa
+1742,Africa
+6231,Africa
+494,Asia
+6840,Oceania
+4707,Africa
+4708,Africa
+6255,Africa
+6244,Africa
+6256,Africa
+1764,Africa
+1767,Africa
+1768,Africa
+6232,Africa
+6250,Africa
+1643,Asia
+2523,Africa
+7074,Africa
+1641,Asia
+695,Europe
+696,Europe
+2530,Africa
+8279,Asia
+8280,Asia
+8277,Asia
+4088,Europe
+2605,South America
+2590,South America
+4902,Europe
+4332,Europe
+6600,Europe
+1770,Africa
+2387,Africa
+2388,Africa
+2857,Africa
+2858,Africa
+2397,Africa
+2381,Africa
+2382,Africa
+486,Asia
+2436,Africa
+4557,Oceania
+4559,Oceania
+4561,Oceania
+4563,Oceania
+4565,Oceania
+4567,Oceania
+4569,Oceania
+4571,Oceania
+4573,Oceania
+4575,Oceania
+4577,Oceania
+4579,Oceania
+4581,Oceania
+4583,Oceania
+4585,Oceania
+4587,Oceania
+4589,Oceania
+5667,Oceania
+1339,Africa
+1340,Africa
+1782,Africa
+4371,Africa
+4372,Africa
+4373,Africa
+4374,Africa
+4383,Africa
+4384,Africa
+2395,Africa
+2396,Africa
+8283,Asia
+8284,Asia
+2927,Asia
+2929,Asia
+2931,Asia
+2933,Asia
+2937,Asia
+2935,Asia
+341,Asia
+343,Asia
+345,Asia
+347,Asia
+349,Asia
+351,Asia
+353,Asia
+355,Asia
+357,Asia
+359,Asia
+361,Asia
+363,Asia
+365,Asia
+367,Asia
+369,Asia
+371,Asia
+373,Asia
+2941,Asia
+477,Asia
+479,Asia
+481,Asia
+483,Asia
+485,Asia
+487,Asia
+503,Asia
+505,Asia
+507,Asia
+509,Asia
+2943,Asia
+647,Europe
+651,Europe
+653,Europe
+655,Europe
+657,Europe
+659,Europe
+661,Europe
+663,Europe
+665,Europe
+667,Europe
+669,Europe
+671,Europe
+673,Europe
+675,Europe
+677,Europe
+679,Europe
+2945,Asia
+2947,Asia
+2949,Asia
+2951,Asia
+2953,Asia
+2955,Asia
+2957,Asia
+1927,Europe
+1905,Europe
+1907,Europe
+1909,Europe
+1911,Europe
+1913,Europe
+1915,Europe
+1917,Europe
+1919,Europe
+1921,Europe
+1923,Europe
+1925,Europe
+1929,Europe
+1931,Europe
+1933,Europe
+1935,Europe
+1937,Europe
+2449,Europe
+2451,Europe
+2453,Europe
+2455,Europe
+2457,Europe
+2459,Europe
+2461,Europe
+2463,Europe
+2465,Europe
+2467,Europe
+2469,Europe
+2471,Europe
+2473,Europe
+2475,Europe
+2477,Europe
+2479,Europe
+2481,Europe
+4013,Asia
+4015,Asia
+4017,Asia
+4019,Asia
+4021,Asia
+4023,Asia
+4025,Asia
+4027,Asia
+4029,Asia
+4031,Asia
+4033,Asia
+4035,Asia
+4037,Asia
+4039,Asia
+4041,Asia
+4043,Asia
+4045,Asia
+4081,Europe
+4083,Europe
+4085,Europe
+4087,Europe
+4089,Europe
+4091,Europe
+4093,Europe
+4095,Europe
+4097,Europe
+4099,Europe
+4101,Europe
+4103,Europe
+4105,Europe
+4107,Europe
+4109,Europe
+4111,Europe
+4113,Europe
+4285,Europe
+4287,Europe
+4289,Europe
+4291,Europe
+4293,Europe
+4295,Europe
+4297,Europe
+4299,Europe
+4301,Europe
+4303,Europe
+4305,Europe
+4307,Europe
+4309,Europe
+4311,Europe
+4313,Europe
+4315,Europe
+4317,Europe
+5651,Oceania
+5645,Oceania
+5653,Oceania
+5647,Oceania
+5649,Oceania
+5663,Oceania
+5665,Oceania
+5661,Oceania
+5669,Oceania
+5671,Oceania
+6189,Europe
+6191,Europe
+6193,Europe
+6195,Europe
+6197,Europe
+6199,Europe
+6201,Europe
+6203,Europe
+6205,Europe
+6207,Europe
+6209,Europe
+6211,Europe
+6213,Europe
+6215,Europe
+6217,Europe
+6219,Europe
+6221,Europe
+6801,Europe
+6803,Europe
+6805,Europe
+6807,Europe
+6809,Europe
+6811,Europe
+6813,Europe
+6815,Europe
+6817,Europe
+6819,Europe
+6821,Europe
+6823,Europe
+6825,Europe
+6827,Europe
+6829,Europe
+6831,Europe
+6833,Europe
+7311,Asia
+7313,Asia
+7315,Asia
+7317,Asia
+7319,Asia
+7321,Asia
+7323,Asia
+7325,Asia
+7327,Asia
+7329,Asia
+7331,Asia
+7333,Asia
+7335,Asia
+7337,Asia
+7339,Asia
+7341,Asia
+7343,Asia
+7617,Asia
+7619,Asia
+7621,Asia
+7623,Asia
+7625,Asia
+7627,Asia
+7629,Asia
+7631,Asia
+7633,Asia
+7635,Asia
+7637,Asia
+7639,Asia
+7641,Asia
+7643,Asia
+7645,Asia
+7647,Asia
+7649,Asia
+7753,Europe
+7755,Europe
+7757,Europe
+7759,Europe
+7761,Europe
+7763,Europe
+7765,Europe
+7767,Europe
+7769,Europe
+7771,Europe
+7773,Europe
+7775,Europe
+7777,Europe
+7779,Europe
+7781,Europe
+7783,Europe
+7785,Europe
+8025,Asia
+8027,Asia
+8029,Asia
+8031,Asia
+8033,Asia
+8035,Asia
+8037,Asia
+8039,Asia
+8041,Asia
+8043,Asia
+8045,Asia
+8047,Asia
+8049,Asia
+8051,Asia
+7453,Oceania
+8053,Asia
+8055,Asia
+8057,Asia
+109,Oceania
+110,Oceania
+2211,North America
+2212,North America
+3319,South America
+3320,South America
+2177,Africa
+8281,Asia
+8282,Asia
+4375,Africa
+4376,Africa
+2183,Africa
+2184,Africa
+8266,Asia
+8269,Asia
+8270,Asia
+2533,Africa
+2525,Africa
+2527,Africa
+2529,Africa
+2531,Africa
+2535,Africa
+2537,Africa
+2539,Africa
+2541,Africa
+2543,Africa
+2545,Africa
+2547,Africa
+2429,Africa
+2433,Africa
+2417,Africa
+2421,Africa
+2437,Africa
+2415,Africa
+2517,Africa
+2519,Africa
+2521,Africa
+2439,Africa
+6767,Europe
+6769,Europe
+6771,Europe
+6773,Europe
+6775,Europe
+6777,Europe
+6779,Europe
+6781,Europe
+6783,Europe
+6785,Europe
+6787,Europe
+6789,Europe
+6791,Europe
+6793,Europe
+6795,Europe
+6797,Europe
+6799,Europe
+124,Oceania
+107,Oceania
+133,Oceania
+134,Oceania
+120,Oceania
+135,Oceania
+6449,Oceania
+6450,Oceania
+6441,Oceania
+6442,Oceania
+6443,Oceania
+6444,Oceania
+6445,Oceania
+6446,Oceania
+3963,Oceania
+3964,Oceania
+6457,Oceania
+6458,Oceania
+8081,Oceania
+8082,Oceania
+129,Oceania
+130,Oceania
+6839,Oceania
+8275,Asia
+8276,Asia
+8267,Asia
+2427,Africa
+2431,Africa
+2419,Africa
+2445,Africa
+6429,Oceania
+6430,Oceania
+5107,Oceania
+5109,Oceania
+5436,Oceania
+6447,Oceania
+6448,Oceania
+6225,Africa
+7465,Oceania
+7466,Oceania
+8289,Asia
+8290,Asia
+8291,Asia
+8292,Asia
+2425,Africa
+2435,Africa
+2441,Africa
+2443,Africa
+697,Europe
+1155,Africa
+2447,Africa
+4411,Africa
+4412,Africa
+7449,Oceania
+7450,Oceania
+7447,Oceania
+7448,Oceania
+7471,Oceania
+7472,Oceania
+7468,Oceania
+8271,Asia
+8272,Asia
+8295,Asia
+8296,Asia
+2462,Europe
+1341,Africa
+1342,Africa
+1355,Africa
+1356,Africa
+1783,Africa
+1784,Africa
+1787,Africa
+1788,Africa
+1789,Africa
+1790,Africa
+1781,Africa
+1797,Africa
+1798,Africa
+114,Oceania
+1324,North America
+122,Oceania
+115,Oceania
+116,Oceania
+1799,Africa
+1800,Africa
+1801,Africa
+1802,Africa
+2871,Africa
+2872,Africa
+2875,Africa
+2876,Africa
+2869,Africa
+2870,Africa
+2885,Africa
+2886,Africa
+3949,Oceania
+3950,Oceania
+5103,Oceania
+3945,Oceania
+3946,Oceania
+2411,Africa
+2412,Africa
+2413,Africa
+2414,Africa
+2398,Africa
+2394,Africa
+2410,Africa
+1156,Africa
+7454,Oceania
+126,Oceania
+7469,Oceania
+7477,Oceania
+7478,Oceania
+6606,Europe
+6431,Oceania
+6432,Oceania
+6433,Oceania
+1835,Oceania
+1836,Oceania
+1831,Oceania
+1832,Oceania
+1838,North America
+3953,Oceania
+3954,Oceania
+136,Oceania
+117,Oceania
+118,Oceania
+119,Oceania
+6455,Oceania
+6456,Oceania
+1815,Oceania
+1816,Oceania
+1807,Oceania
+1808,Oceania
+7451,Oceania
+7452,Oceania
+4197,Africa
+4198,Africa
+4199,Africa
+4200,Africa
+4205,Africa
+4206,Africa
+4213,Africa
+4214,Africa
+4203,Africa
+4204,Africa
+5461,Oceania
+5462,Oceania
+5471,Oceania
+5472,Oceania
+1135,Africa
+1136,Africa
+5469,Oceania
+5470,Oceania
+5473,Oceania
+5474,Oceania
+1131,Africa
+1132,Africa
+7473,Oceania
+7474,Oceania
+7455,Oceania
+693,Europe
+699,Europe
+701,Europe
+703,Europe
+705,Europe
+707,Europe
+709,Europe
+681,Europe
+683,Europe
+685,Europe
+687,Europe
+689,Europe
+4345,Europe
+4341,Europe
+4339,Europe
+4347,Europe
+4319,Europe
+4321,Europe
+4323,Europe
+4325,Europe
+4327,Europe
+4329,Europe
+4331,Europe
+4333,Europe
+4335,Europe
+4337,Europe
+4343,Europe
+4349,Europe
+4351,Europe
+6701,Africa
+6702,Africa
+6707,Africa
+6708,Africa
+6717,Africa
+6718,Africa
+6705,Africa
+6706,Africa
+6719,Africa
+2191,Africa
+5441,Oceania
+5442,Oceania
+5443,Oceania
+5444,Oceania
+2192,Africa
+6713,Africa
+6714,Africa
+6729,Africa
+6730,Africa
+6720,Africa
+7479,Oceania
+7480,Oceania
+1916,Europe
+1311,North America
+1312,North America
+1313,North America
+1314,North America
+1309,North America
+1310,North America
+4941,North America
+4942,North America
+4943,North America
+4939,North America
+2178,Africa
+4944,North America
+4959,North America
+4960,North America
+4955,North America
+4956,North America
+4957,North America
+4958,North America
+4963,North America
+4964,North America
+6709,Africa
+6710,Africa
+6857,Oceania
+6858,Oceania
+6855,Oceania
+6856,Oceania
+6227,Africa
+6228,Africa
+1149,Africa
+1150,Africa
+5675,Oceania
+3975,Oceania
+3976,Oceania
+6861,Oceania
+3966,Oceania
+5655,Oceania
+5657,Oceania
+5673,Oceania
+5677,Oceania
+5659,Oceania
+6865,Oceania
+6866,Oceania
+6867,Oceania
+6862,Oceania
+4945,North America
+4946,North America
+4947,North America
+4948,North America
+4949,North America
+4950,North America
+4961,North America
+4962,North America
+6850,Oceania
+6863,Oceania
+6845,Oceania
+6846,Oceania
+6864,Oceania
+2219,North America
+2220,North America
+2237,North America
+2238,North America
+4936,North America
+4937,North America
+4938,North America
+4940,North America
+6852,Oceania
+4090,Europe
+3957,Oceania
+3958,Oceania
+3961,Oceania
+3962,Oceania
+1295,North America
+1303,North America
+1304,North America
+1305,North America
+1320,North America
+1321,North America
+1322,North America
+1325,North America
+1323,North America
+3965,Oceania
+3959,Oceania
+3960,Oceania
+1296,North America
+1317,North America
+1318,North America
+1326,North America
+1147,Africa
+1148,Africa
+5424,Oceania
+8294,Asia
+1144,Africa
+7457,Oceania
+7458,Oceania
+7459,Oceania
+4925,Europe
+4927,Europe
+4919,Europe
+4921,Europe
+4923,Europe
+4901,Europe
+4907,Europe
+4897,Europe
+4913,Europe
+4899,Europe
+4903,Europe
+4905,Europe
+4909,Europe
+4911,Europe
+4915,Europe
+4917,Europe
+6599,Europe
+6627,Europe
+6611,Europe
+6605,Europe
+6597,Europe
+6601,Europe
+6603,Europe
+6607,Europe
+6609,Europe
+6615,Europe
+6617,Europe
+6619,Europe
+6621,Europe
+6623,Europe
+6625,Europe
+3947,Oceania
+3948,Oceania
+5434,Oceania
+6853,Oceania
+8268,Asia
+6854,Oceania
+6849,Oceania
+6868,Oceania
+6847,Oceania
+6848,Oceania
+6439,Oceania
+6440,Oceania
+6459,Oceania
+6460,Oceania
+6224,Africa
+5115,Oceania
+5463,Oceania
+5464,Oceania
+1914,Europe
+5468,Oceania
+5454,Oceania
+5415,Oceania
+5416,Oceania
+7073,Africa
+7077,Africa
+7075,Africa
+7095,Africa
+7089,Africa
+7081,Africa
+7083,Africa
+7085,Africa
+7087,Africa
+7103,Africa
+7101,Africa
+7105,Africa
+7097,Africa
+7099,Africa
+2199,Africa
+2200,Africa
+4397,Africa
+4398,Africa
+4399,Africa
+4400,Africa
+4415,Africa
+4416,Africa
+2179,Africa
+2180,Africa
+2205,Africa
+2206,Africa
+2187,Africa
+2188,Africa
+2185,Africa
+2189,Africa
+2190,Africa
+2186,Africa
+5121,Oceania
+5123,Oceania
+5131,Oceania
+5117,Oceania
+7467,Oceania
+7463,Oceania
+7088,Africa
+1825,Oceania
+1826,Oceania
+1814,Oceania
+1817,Oceania
+1833,Oceania
+1834,Oceania
+1824,Oceania
+5105,Oceania
+5129,Oceania
+6241,Africa
+6242,Africa
+1130,Africa
+1140,Africa
+710,Europe
+8293,Asia
+1146,Africa
+636,North America
+8273,Asia
+1125,Africa
+108,Oceania
+5113,Oceania
+1152,Africa
+1153,Africa
+1154,Africa
+7470,Oceania
+7456,Oceania
+7464,Oceania
+7460,Oceania
+7475,Oceania
+7476,Oceania
+6253,Africa
+125,Oceania
+5418,Oceania
+8278,Asia
+7461,Oceania
+7462,Oceania
+492,Asia
+6759,Asia
+6760,Asia
+8274,Asia
+7092,Africa
+356,Asia
+5133,Oceania
+2585,South America
+2586,South America
+2587,South America
+2588,South America
+8287,Asia
+6746,Asia
+8288,Asia
+6734,Asia
+6735,Asia
+6736,Asia
+6737,Asia
+6738,Asia
+2528,Africa
+5425,Oceania
+5417,Oceania
+2596,South America
+5439,Oceania
+5440,Oceania
+5435,Oceania
+2591,South America
+2592,South America
+2593,South America
+5437,Oceania
+5438,Oceania
+5419,Oceania
+5420,Oceania
+5413,Oceania
+5414,Oceania
+2598,South America
+2609,South America
+2610,South America
+6753,Asia
+2599,South America
+2597,South America
+6751,Asia
+5426,Oceania
+5427,Oceania
+5428,Oceania
+5429,Oceania
+5430,Oceania
+6754,Asia
+6755,Asia
+6756,Asia
+6757,Asia
+6758,Asia
+4904,Europe
+6747,Asia
+6748,Asia
+6749,Asia
+6750,Asia
+6752,Asia
+2426,Africa
+2606,South America
+6630,Europe
+694,Europe
+6761,Asia
+6762,Asia
+6763,Asia
+6764,Asia
+6765,Asia
+654,Europe
+2600,South America
+2601,South America
+7078,Africa
+6766,Asia
+2594,South America
+2595,South America
+2602,South America
+2603,South America
+2604,South America
+2607,South America
+2608,South America
+2611,South America
+2612,South America
+2613,South America
+2614,South America
+2615,South America
+2616,South America
+2617,South America
+2618,South America
+2434,Africa
+1842,North America
+2428,Africa
+508,Asia
+6216,Europe
+7084,Africa
+2532,Africa
+2536,Africa
+2538,Africa
+7094,Africa
+2540,Africa
+2542,Africa
+2544,Africa
+346,Asia
+500,Asia
+4922,Europe
+2548,Africa
+2928,Asia
+2930,Asia
+662,Europe
+1860,North America
+700,Europe
+2936,Asia
+348,Asia
+704,Europe
+4320,Europe
+352,Asia
+7096,Africa
+7626,Asia
+354,Asia
+1648,Asia
+5112,Oceania
+360,Asia
+362,Asia
+364,Asia
+5126,Oceania
+366,Asia
+1844,North America
+368,Asia
+2422,Africa
+5104,Oceania
+4042,Asia
+372,Asia
+374,Asia
+5118,Oceania
+2942,Asia
+480,Asia
+482,Asia
+2946,Asia
+708,Europe
+488,Asia
+2958,Asia
+502,Asia
+504,Asia
+7082,Africa
+666,Europe
+510,Asia
+2430,Africa
+2432,Africa
+4920,Europe
+648,Europe
+650,Europe
+652,Europe
+658,Europe
+1846,North America
+4928,Europe
+2472,Europe
+668,Europe
+7086,Africa
+5102,Oceania
+670,Europe
+5106,Oceania
+5108,Oceania
+5120,Oceania
+5122,Oceania
+5124,Oceania
+672,Europe
+5130,Oceania
+1868,North America
+674,Europe
+5132,Oceania
+1650,Asia
+676,Europe
+5134,Oceania
+678,Europe
+680,Europe
+682,Europe
+684,Europe
+688,Europe
+4094,Europe
+2948,Asia
+1640,Asia
+1864,North America
+1910,Europe
+5676,Oceania
+1666,Asia
+1642,Asia
+2438,Africa
+1656,Asia
+2418,Africa
+4100,Europe
+1866,North America
+2950,Asia
+2952,Asia
+4038,Asia
+1908,Europe
+2956,Asia
+1634,Asia
+1636,Asia
+1638,Asia
+1644,Asia
+1646,Asia
+1654,Asia
+1658,Asia
+2470,Europe
+1660,Asia
+4912,Europe
+1662,Asia
+1664,Asia
+1840,North America
+1848,North America
+7090,Africa
+1850,North America
+1852,North America
+1854,North America
+1856,North America
+1858,North America
+1862,North America
+4084,Europe
+1870,North America
+1906,Europe
+4106,Europe
+1912,Europe
+6810,Europe
+4590,Oceania
+1918,Europe
+1920,Europe
+5714,North America
+1922,Europe
+1924,Europe
+1926,Europe
+1928,Europe
+1930,Europe
+1932,Europe
+2466,Europe
+1934,Europe
+1936,Europe
+1938,Europe
+2444,Africa
+4096,Europe
+2460,Europe
+2416,Africa
+2420,Africa
+4308,Europe
+4582,Oceania
+2440,Africa
+2442,Africa
+2446,Africa
+2448,Africa
+2452,Europe
+4024,Asia
+2454,Europe
+4020,Asia
+2456,Europe
+4338,Europe
+2464,Europe
+2468,Europe
+5650,Oceania
+2474,Europe
+2476,Europe
+4016,Asia
+2478,Europe
+2480,Europe
+4110,Europe
+2482,Europe
+2518,Africa
+2520,Africa
+5746,North America
+4290,Europe
+4092,Europe
+4018,Asia
+5736,North America
+4022,Asia
+4026,Asia
+4028,Asia
+4030,Asia
+4032,Asia
+4034,Asia
+4036,Asia
+4040,Asia
+4292,Europe
+4044,Asia
+6824,Europe
+4046,Asia
+4898,Europe
+4316,Europe
+4102,Europe
+4346,Europe
+4104,Europe
+4108,Europe
+4112,Europe
+4574,Oceania
+5726,North America
+4114,Europe
+4322,Europe
+4286,Europe
+4288,Europe
+4294,Europe
+4296,Europe
+4336,Europe
+4298,Europe
+4300,Europe
+4302,Europe
+4310,Europe
+4312,Europe
+4314,Europe
+4318,Europe
+5652,Oceania
+5734,North America
+4324,Europe
+4326,Europe
+5672,Oceania
+4328,Europe
+4572,Oceania
+4334,Europe
+4340,Europe
+4342,Europe
+4344,Europe
+4348,Europe
+4350,Europe
+4352,Europe
+7098,Africa
+6792,Europe
+5666,Oceania
+6622,Europe
+4566,Oceania
+4568,Oceania
+5658,Oceania
+4570,Oceania
+4576,Oceania
+4578,Oceania
+4580,Oceania
+4584,Oceania
+4586,Oceania
+4588,Oceania
+4908,Europe
+4914,Europe
+5728,North America
+6818,Europe
+4900,Europe
+4906,Europe
+4910,Europe
+4916,Europe
+4918,Europe
+5744,North America
+5720,North America
+5646,Oceania
+5648,Oceania
+6776,Europe
+5742,North America
+5656,Oceania
+5660,Oceania
+6194,Europe
+5662,Oceania
+5664,Oceania
+5670,Oceania
+5674,Oceania
+5678,Oceania
+5716,North America
+5724,North America
+5730,North America
+5732,North America
+5738,North America
+5740,North America
+6218,Europe
+6192,Europe
+6190,Europe
+6832,Europe
+6198,Europe
+6612,Europe
+6200,Europe
+6202,Europe
+6204,Europe
+6206,Europe
+6208,Europe
+6210,Europe
+6212,Europe
+6782,Europe
+6214,Europe
+6220,Europe
+6222,Europe
+6602,Europe
+6604,Europe
+6610,Europe
+6614,Europe
+6616,Europe
+6618,Europe
+6620,Europe
+7632,Asia
+6624,Europe
+6626,Europe
+6822,Europe
+8040,Asia
+6768,Europe
+6770,Europe
+6772,Europe
+6774,Europe
+6778,Europe
+6780,Europe
+6784,Europe
+6786,Europe
+6788,Europe
+6794,Europe
+6796,Europe
+6798,Europe
+8054,Asia
+6800,Europe
+7100,Africa
+6802,Europe
+6804,Europe
+6806,Europe
+6808,Europe
+6812,Europe
+6814,Europe
+6816,Europe
+6820,Europe
+6826,Europe
+6828,Europe
+6830,Europe
+6834,Europe
+7778,Europe
+7102,Africa
+7104,Africa
+7106,Africa
+7312,Asia
+7314,Asia
+7316,Asia
+7318,Asia
+7322,Asia
+7324,Asia
+7772,Europe
+7326,Asia
+7328,Asia
+7330,Asia
+7332,Asia
+7334,Asia
+7336,Asia
+7338,Asia
+7760,Europe
+7770,Europe
+7340,Asia
+7342,Asia
+7344,Asia
+7618,Asia
+7620,Asia
+7622,Asia
+7624,Asia
+7766,Europe
+7628,Asia
+7630,Asia
+7634,Asia
+7636,Asia
+7638,Asia
+7640,Asia
+7642,Asia
+7644,Asia
+8056,Asia
+7646,Asia
+7648,Asia
+7650,Asia
+7756,Europe
+7758,Europe
+7762,Europe
+7764,Europe
+7768,Europe
+7774,Europe
+7776,Europe
+7782,Europe
+7784,Europe
+7786,Europe
+8026,Asia
+8028,Asia
+8030,Asia
+8032,Asia
+8036,Asia
+8038,Asia
+8042,Asia
+8044,Asia
+8046,Asia
+8048,Asia
+8050,Asia
+8052,Asia
+8058,Asia
